@@ -4,7 +4,7 @@
 
   // Where form submissions are delivered (FormSubmit.co, free, no account).
   // The first submission sends a one-time activation email to this address.
-  var FORM_ENDPOINT = "https://formsubmit.co/ajax/REPLACE_WITH_EMAIL";
+  var FORM_ENDPOINT = "https://formsubmit.co/ajax/mo@albatross-cap.com";
 
   var reduceMotion = window.matchMedia("(prefers-reduced-motion: reduce)").matches;
   var root = document.documentElement;
